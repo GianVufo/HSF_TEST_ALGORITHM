@@ -1,0 +1,14 @@
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.exe
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.deps.json
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.runtimeconfig.json
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.runtimeconfig.dev.json
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.dll
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.pdb
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.csproj.AssemblyReference.cache
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.AssemblyInfoInputs.cache
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.AssemblyInfo.cs
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.dll
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.pdb
+D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.genruntimeconfig.cache

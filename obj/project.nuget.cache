@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V5qMdIXoSauiDdGfD0tH1y3J7OLG4BRf3s/Nwf8aodBWlAWxj7D4KLf7G9O/ypp7nygPJufHbXKJWO2qQJX/AA==",
+  "success": true,
+  "projectFilePath": "D:\\WORKSPACE\\Study Place\\CSharp\\Console\\ex_csharp\\HSF_Test_Algorithm\\HSF_Test_Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
