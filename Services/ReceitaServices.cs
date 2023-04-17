@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using HSF_Test_Algorithm.Models;
 
 namespace HSF_Test_Algorithm.Services
@@ -22,6 +23,7 @@ namespace HSF_Test_Algorithm.Services
         {
 
             Receita rec = new Receita();
+
             RemedioServices res = new RemedioServices();
 
             Console.WriteLine("Nome do Paciente");
@@ -32,7 +34,7 @@ namespace HSF_Test_Algorithm.Services
 
             Console.WriteLine("Unidade de Atendimento");
             rec.MedicUnity = Console.ReadLine();
-
+        
             AdicionarReceita(rec);
 
         }
@@ -40,9 +42,11 @@ namespace HSF_Test_Algorithm.Services
         public void ListarReceitas()
         {
             RemedioServices res = new RemedioServices();
+            Receita rec = new Receita();
 
             foreach (var item in ListaDeReceitas)
             {
+                Console.WriteLine(" Receita Número ");
                 Console.WriteLine("Nome Do Paciente : " + item.PacientName);
                 Console.WriteLine("Nome Do Médico : " + item.MedicName);
                 Console.WriteLine("Unidade de atendimento : " + item.MedicUnity);

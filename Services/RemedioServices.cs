@@ -6,6 +6,7 @@ namespace HSF_Test_Algorithm.Services
 {
     public class RemedioServices
     {
+        Receita rec = new Receita();
         public List<Remedio> ListaDeRemedios;
 
         public RemedioServices()
@@ -26,7 +27,6 @@ namespace HSF_Test_Algorithm.Services
             {
 
                 Remedio re = new Remedio();
-                Receita rec = new Receita();
 
                 Console.WriteLine("Nome do Medicamento : ");
                 re.MedicationName = Console.ReadLine();
@@ -48,9 +48,13 @@ namespace HSF_Test_Algorithm.Services
 
         public void ListarRemedios()
         {
+            Receita rec = new Receita();
+
+            rec.Medicamentos = ListaDeRemedios;
+
             Console.WriteLine("[MEDICAMENTOS INSERIDOS]");
 
-            foreach (var item in ListaDeRemedios)
+            foreach (var item in rec.Medicamentos)
             {
                 Console.WriteLine("Nome do Medicamento : " + item.MedicationName);
                 Console.WriteLine("Dosagem do Medicamento : " + item.MedicationDosage);

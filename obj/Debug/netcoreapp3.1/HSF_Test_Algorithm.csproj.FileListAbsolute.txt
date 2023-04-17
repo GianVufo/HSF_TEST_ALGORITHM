@@ -12,3 +12,17 @@ D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\n
 D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.dll
 D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.pdb
 D:\WORKSPACE\Study Place\CSharp\Console\ex_csharp\HSF_Test_Algorithm\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.genruntimeconfig.cache
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.exe
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.deps.json
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.runtimeconfig.json
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.runtimeconfig.dev.json
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.dll
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\bin\Debug\netcoreapp3.1\HSF_Test_Algorithm.pdb
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.csproj.AssemblyReference.cache
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.AssemblyInfoInputs.cache
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.AssemblyInfo.cs
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.dll
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.pdb
+C:\Users\gianluca.vialli\Desktop\HSF_TEST_ALGORITHM\obj\Debug\netcoreapp3.1\HSF_Test_Algorithm.genruntimeconfig.cache
